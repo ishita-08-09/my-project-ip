@@ -1,0 +1,1 @@
+I am currently developing a project titled "Garbage Classification Using AI and Machine Learning." Around 70% of the project is complete, with the relevant datasets included and stages of model development underway. 
