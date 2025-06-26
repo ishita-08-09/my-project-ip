@@ -1,1 +1,3 @@
-I am currently developing a project titled "Garbage Classification Using AI and Machine Learning." Around 70% of the project is complete, with the relevant datasets included and stages of model development underway. 
+I am currently developing a project titled "Garbage Classification Using AI and Machine Learning." Around 70% of the project is complete, with the relevant datasets included and stages of model development. I have used Sklearn for training machine learning models and Keras for neural network architecture. I have used datasets of images with seven classes.
+Here,I have trained dataset using VGG16, RESNET50 model via using Transfer Learning technique of CNN for classification
+Also, I have trained this model till 5 epochs and i got 69.77% accuracy. Since my computer can not aford more epochs at this time due unavailbility of GPU. if you have good ammount of gpu you can train more than 50 epochs.
